@@ -27,4 +27,8 @@
     "express": "^4.13.3",
     "mongodb": "^2.0.43"
   }
+  "scripts": {
+  "start": "node server.js"
+},
+"main": "server.js"
 }
